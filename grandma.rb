@@ -16,9 +16,14 @@
 def speak_to_grandma(phrase)
   phrase = "I LOVE YOU GRANDMA!"
   
-  if phrase == true
-    
-    return "I LOVE YOU TOO PUMPKIN!"
+  if phrase == 
+    puts 
+  elsif phrase == 
+    puts
+  elsif phrase == 
+    puts
+  else phrase == 
+    puts "I LOVE YOU TOO PUMPKIN!"
   end
 end
 
