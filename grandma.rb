@@ -22,9 +22,9 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP, SONNY!"
   elsif phrase == 'WHAT DID YOU EAT TODAY?'
     puts "NO, NOT SINCE 1938!"
-  elsif phrase == 'WHAT DID YOU EAT TODAY?'
+  elsif phrase == 'WHAT?'
     puts "NO, NOT SINCE 1938!"
-  else phrase == 
+  else 
     puts "I LOVE YOU TOO PUMPKIN!"
   end
 end
