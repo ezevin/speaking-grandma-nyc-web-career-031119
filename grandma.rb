@@ -21,6 +21,7 @@ def speak_to_grandma(phrase = "I LOVE YOU GRANDMA!")
     
   if phrase == phrase.uppercase
     returns "HUH?! SPEAK UP, SONNY!"
+    
   elsif phrase == 'Hi!'
     puts "HUH?! SPEAK UP, SONNY!"
   elsif phrase == 'WHAT DID YOU EAT TODAY?'
